@@ -1,4 +1,4 @@
-# NCAA_March_madness_2019
+# NCAA_March_Madness_2019
 
 Investigated the “homecourt advantage” and checked how homecourt contributed to the difference in score by using KS test, two sample T-test, Monte Carlo simulation and Mann-Whitney U test
 
